@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "b9189b9759163f93093760b4917b6eb2",
   "VITE_APP_NAME": "X Dynasty",
   "VITE_APP_DESCRIPTION": "An Asian centric global community that is all inclusive. Aiming to build a global Asian super hub,",
   "VITE_HAS_PRIMARY_LOGO": "true",
