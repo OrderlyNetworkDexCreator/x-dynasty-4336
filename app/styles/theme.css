@@ -1,5 +1,6 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: 'Roboto', sans-serif;
+  --oui-font-size-base: 15px;
 
   /* colors */
   --oui-color-primary: 98 57 163;
@@ -91,4 +92,9 @@
   --oui-spacing-md: 26.25rem;
   --oui-spacing-lg: 30rem;
   --oui-spacing-xl: 33.75rem;
+}
+
+html, body {
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 15px !important;
 }
